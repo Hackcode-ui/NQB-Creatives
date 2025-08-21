@@ -1,0 +1,7 @@
+# robots.txt for DesignCraft Studio
+
+User-agent: *
+Allow: /
+
+# Sitemap location (add when you have a sitemap)
+# Sitemap: https://www.yourdesignsite.com/sitemap.xml
